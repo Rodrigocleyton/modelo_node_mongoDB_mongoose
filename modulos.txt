@@ -1,0 +1,3 @@
+mongoose é tipo jpa. Serve para manipular o mongoDB (npm install --save mongoose)
+
+express 
